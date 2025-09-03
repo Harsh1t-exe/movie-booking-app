@@ -2,6 +2,11 @@
 
 A full-stack movie booking application inspired by BookMyShow, built with React, Node.js, and PostgreSQL.
 
+
+## Preview
+https://movie-booking-app-ebon.vercel.app/
+https://movie-booking-app-ebon.vercel.app/admin
+
 ## ✨ Features
 
 ### 🎭 User Features
@@ -226,4 +231,5 @@ This is a portfolio project. Feel free to fork and create your own version!
 ---
 
 **Built with modern web technologies for learning full-stack development**
+
 
